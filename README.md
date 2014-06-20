@@ -1,6 +1,8 @@
 # PDX Dev Week
 ## July 28 - Aug 3 
 
+![logo](http://pdx.devweek.org/assets/img/devweek_logo_bg.png)
+
 [PDX Dev Week][1] is a community-driven meta event that showcases the best events, activities and spaces for developers in Portland, OR. It is modeled after last year's [Vancouver Dev Week][2]. The [CascadiaJS conference][3] is coming to Portland on 7/31 and 8/1, so PDX Dev Week will run roughly from July 28th to August 3rd.
 
 The purpose of a Dev Week is two-fold:
