@@ -391,6 +391,32 @@ form#mc-embedded-subscribe-form input[type=submit] {
   }
 }
 
+.sct-head:hover .sct-anchor {
+  opacity: 0.6;
+}
+
+.sct-anchor {
+  position: relative;
+  top: -3px;
+  left: 8px;
+
+  font-size: 24px;
+  text-decoration: none;
+
+  opacity: 0;
+  color: #ccc;
+
+  .transition(0.5s, ease);
+}
+
+.sct-anchor:before {
+    content: "\00B6";
+}
+
+.sct-anchor:hover {
+    text-decoration: none;
+}
+
 #footer {
     text-align: center;
     position: absolute;
